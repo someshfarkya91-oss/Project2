@@ -1,2 +1,2 @@
 # project2 
-this project is created by somesh farkya
+this project is created by somesh farkya.
